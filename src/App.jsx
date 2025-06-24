@@ -8,6 +8,7 @@ import { setData as setDataFirstConditional, setLoading as setLoadingFirstCondit
 import { setData as setDataZeroConditional, setLoading as setLoadingZeroConditional, setError as setErrorZeroConditional } from "./store/zeroconditional";
 import { setData as setDataThirdConditional, setLoading as setLoadingThirdConditional, setError as setErrorThirdConditional } from "./store/thirdconditional";
 import { setData as setDataMixedConditional, setLoading as setLoadingMixedConditional, setError as setErrorMixedConditional } from "./store/mixedconditional";
+import { setData as setDataModalsPossibility, setLoading as setLoadingModalsPossibility, setError as setErrorModalsPossibility } from "./store/modalspossibility";
 
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';

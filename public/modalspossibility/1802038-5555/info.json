@@ -6,157 +6,107 @@
   },
   "topics": [
     {
-      "topic": "verbs",
+      "topic": "modals_possibility",
       "questions": [
         {
-          "question": "Choose the correct form of the verb in the sentence: 'She _____ to the gym every morning.'",
+          "question": "Which sentence shows possibility?",
           "options": [
-            "go",
-            "goes",
-            "gone",
-            "going"
+            "She must be tired.",
+            "She might be tired.",
+            "She is tired.",
+            "She was tired."
           ],
-          "answer": "goes"
+          "answer": "She might be tired."
         },
         {
-          "question": "Which sentence is grammatically correct?",
+          "question": "Choose the correct modal to show possibility: 'It _____ rain later, so take an umbrella.'",
           "options": [
-            "He play guitar very well.",
-            "He plays guitar very well.",
-            "He playing guitar very well.",
-            "He played guitar very well every day."
+            "must",
+            "might",
+            "should",
+            "would"
           ],
-          "answer": "He plays guitar very well."
+          "answer": "might"
         },
         {
-          "question": "Choose the correct past tense form: 'Yesterday, they _____ a movie at home.'",
+          "question": "Which of these shows less certainty?",
           "options": [
-            "watch",
-            "watches",
-            "watched",
-            "watching"
+            "He must be the new manager.",
+            "He might be the new manager.",
+            "He is the new manager.",
+            "He was the new manager."
           ],
-          "answer": "watched"
+          "answer": "He might be the new manager."
         },
         {
-          "question": "Which sentence uses the future tense correctly?",
+          "question": "Choose the sentence that shows a strong possibility:",
           "options": [
-            "She will goes to the store.",
-            "She will go to the store.",
-            "She go to the store tomorrow.",
-            "She going to go to the store."
+            "They could be at home now.",
+            "They might be at home now.",
+            "They must be at home now.",
+            "They would be at home now."
           ],
-          "answer": "She will go to the store."
+          "answer": "They must be at home now."
         },
         {
-          "question": "Choose the sentence with the correct verb agreement.",
+          "question": "Which sentence uses a modal of possibility correctly?",
           "options": [
-            "The dogs barks loudly.",
-            "The dog bark loudly.",
-            "The dog barks loudly.",
-            "The dogs barking loudly."
+            "She can goes to the party.",
+            "She might go to the party.",
+            "She must to go to the party.",
+            "She going to the party might."
           ],
-          "answer": "The dog barks loudly."
+          "answer": "She might go to the party."
         },
         {
-          "question": "Complete the sentence with the correct verb: 'They _____ playing football when it started raining.'",
+          "question": "Complete the sentence: 'We _____ see them at the concert tomorrow.'",
           "options": [
-            "are",
-            "was",
-            "were",
-            "is"
+            "must",
+            "might",
+            "have to",
+            "used to"
           ],
-          "answer": "were"
+          "answer": "might"
         },
         {
-          "question": "Which sentence correctly uses a modal verb?",
+          "question": "Which modal verb best expresses uncertainty?",
           "options": [
-            "She can sings very well.",
-            "She cans sing very well.",
-            "She can sing very well.",
-            "She singing can very well."
+            "must",
+            "might",
+            "will",
+            "shall"
           ],
-          "answer": "She can sing very well."
+          "answer": "might"
         },
         {
-          "question": "What is the correct past participle of the verb 'begin'?",
+          "question": "Choose the best option: 'There _____ be a mistake in this report.'",
           "options": [
-            "began",
-            "begun",
-            "beganed",
-            "beginning"
+            "might",
+            "must",
+            "will",
+            "can"
           ],
-          "answer": "begun"
+          "answer": "might"
         },
         {
-          "question": "Choose the correct verb form: 'If I _____ more time, I would travel the world.'",
+          "question": "Which sentence expresses a possibility about the past?",
           "options": [
-            "have",
-            "had",
-            "has",
-            "having"
+            "She might have forgotten the meeting.",
+            "She will have forgotten the meeting.",
+            "She must forget the meeting.",
+            "She forgets the meeting."
           ],
-          "answer": "had"
+          "answer": "She might have forgotten the meeting."
         },
         {
-          "question": "Which of the following is a regular verb?",
+          "question": "Choose the correct sentence using 'could' for possibility.",
           "options": [
-            "run",
-            "swim",
-            "walk",
-            "write"
+            "It could rains later.",
+            "It could rain later.",
+            "It could to rain later.",
+            "It raining could later."
           ],
-          "answer": "walk"
-        },
-        {
-          "question": "Which sentence is in the present perfect tense?",
-          "options": [
-            "She eats breakfast.",
-            "She is eating breakfast.",
-            "She has eaten breakfast.",
-            "She ate breakfast."
-          ],
-          "answer": "She has eaten breakfast."
-        },
-        {
-          "question": "What is the correct verb to complete this sentence: 'He _____ English since 2010.'",
-          "options": [
-            "teach",
-            "teached",
-            "has taught",
-            "have taught"
-          ],
-          "answer": "has taught"
-        },
-        {
-          "question": "Choose the correct sentence using an irregular past tense verb.",
-          "options": [
-            "He buyed a new phone.",
-            "He bought a new phone.",
-            "He buys a new phone.",
-            "He was buy a new phone."
-          ],
-          "answer": "He bought a new phone."
-        },
-        {
-          "question": "Which of the following sentences is in passive voice?",
-          "options": [
-            "The chef cooked the meal.",
-            "The meal was cooked by the chef.",
-            "The chef is cooking the meal.",
-            "The meal cooks by the chef."
-          ],
-          "answer": "The meal was cooked by the chef."
-        },
-        {
-          "question": "Choose the correct sentence using 'used to':",
-          "options": [
-            "She used to play piano when she was young.",
-            "She use to play piano when she was young.",
-            "She uses to play piano when she was young.",
-            "She playing used to piano when she was young."
-          ],
-          "answer": "She used to play piano when she was young."
+          "answer": "It could rain later."
         }
       ]
     }
